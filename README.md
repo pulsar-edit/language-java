@@ -1,3 +1,5 @@
+# This Repo is now Archived under Pulsar-Edit because it is bundled with the [editor](https://github.com/pulsar-edit/pulsar/tree/master/packages#core-packages).
+
 # Java language support in Atom
 ![build](https://github.com/atom/language-java/workflows/build/badge.svg)
 [![Dependency Status](https://david-dm.org/atom/language-java.svg)](https://david-dm.org/atom/language-java)
